@@ -29,9 +29,8 @@ Building enterprise-grade security tools from scratch. Rust, Go, Python.
 |:---|:---|
 | NCIIPC Recognition | **Govt. of India** — among <50 researchers recognised annually |
 | TechGig Code Gladiators | **National Rank 34** out of **1,000,000+** participants |
-| Vulnerabilities Identified | **200+** across client applications |
 | DAST Modules Built | **12** OWASP Top 10 modules, production-grade |
-| WAF Benchmark | **5–125× faster** than every open-source & commercial WAF |
+| WAF Benchmark | **Faster** than every open-source & commercial WAF |
 | Test Coverage | **87 tests**, all green, GitLab CI/CD pipeline |
 
 ---
@@ -90,7 +89,7 @@ Building enterprise-grade security tools from scratch. Rust, Go, Python.
 
 ---
 
-#### 🛡️ Next-Gen WAF — 5–125× Faster Than Every Competitor
+#### 🛡️ Next-Gen WAF — Faster Than Every Competitor
 *Rust data plane + Go control plane. Zero-GC. Benchmarked and verified.*
 
 ```
