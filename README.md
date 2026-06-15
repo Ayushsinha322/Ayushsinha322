@@ -25,14 +25,6 @@ Building enterprise-grade security tools from scratch. Rust, Go, Python.
 
 > **Security engineer** with production experience building **enterprise-grade security tools from scratch** — a multi-tenant SaaS DAST scanner and a next-generation Web Application Firewall. Recognised by **NCIIPC (Govt. of India)** for responsible vulnerability disclosure on critical national infrastructure.
 
-| 🏆 Achievement | 🔢 Metric |
-|:---|:---|
-| NCIIPC Recognition | **Govt. of India** — among <50 researchers recognised annually |
-| TechGig Code Gladiators | **National Rank 34** out of **1,000,000+** participants |
-| DAST Modules Built | **12** OWASP Top 10 modules, production-grade |
-| WAF Benchmark | **Faster** than every open-source & commercial WAF |
-| Test Coverage | **87 tests**, all green, GitLab CI/CD pipeline |
-
 ---
 
 ### 📜 Certifications
