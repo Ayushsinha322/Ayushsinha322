@@ -247,19 +247,6 @@ Building enterprise-grade security tools from scratch. Rust, Go, Python.
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayushsinha322&show_icons=true&theme=dark&title_color=00ff88&icon_color=00e5ff&text_color=c8d8c0&bg_color=0a0e0a&hide_border=true&border_color=00ff8833&ring_color=00ff88" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushsinha322&layout=compact&theme=dark&title_color=00ff88&text_color=c8d8c0&bg_color=0a0e0a&hide_border=true&border_color=00ff8833" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ayushsinha322&theme=dark&hide_border=true&background=0a0e0a&stroke=00ff8833&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideNums=c8d8c0&currStreakNum=c8d8c0&sideLabels=7a9e80" />
-</p>
-
----
-
 ### 🤝 Let's Connect
 
 I'm open to roles across the full cybersecurity spectrum:
