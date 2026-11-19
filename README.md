@@ -1,11 +1,11 @@
 ## Ayush Sinha
 
-Security Engineer (R&D) at ESDS Software Solution, Nashik. I build offensive and
+Security Engineer (R&D) . I build offensive and
 defensive tooling — a multi-tenant DAST platform and a WAF data plane in Rust —
 and break things in between.
 
 Recognised by **NCIIPC (Govt. of India)** for responsible disclosure on critical
-national infrastructure. CEH v12, CAP. National rank 34 in TechGig Code Gladiators.
+national infrastructure. Certified Ethical Hacker v12, Certified AppSec Practitioner. National rank 34 in TechGig Code Gladiators.
 
 ```
 Languages   Rust · Go · Python · C · Bash · Kotlin
@@ -18,7 +18,7 @@ Focus       AppSec · WAF internals · DAST engineering · vuln research
 
 ### WebScanner — multi-tenant SaaS DAST platform
 
-Built solo at ESDS. Found 200+ real vulnerabilities across client applications.
+Built solo Found 200+ real vulnerabilities across client applications.
 Python 3.11 · FastAPI · PostgreSQL 16 · Docker · WebSocket.
 
 - **16 scanner modules** — SQLi (error/boolean/time/OAST cascade), XSS, SSRF, SSTI,
